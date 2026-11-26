@@ -8,21 +8,21 @@ title: 生成方法
 
 | 雑誌 | 収録範囲 | 件数 | 主な取得元 |
 |---|---|---|---|
-| The Journal of Academic Librarianship | volume 52（全6号） | 155 | Crossref |
-| Learned Publishing | Volume 39（全4号） | 70 | Crossref |
-| College & Research Libraries | Vol. 87 No.1–5 | 47 | OAI-PMH（ACRL） |
-| Insights: the UKSG journal | Vol. 39（逐次公開分） | 21 | Crossref（誌サイトと照合済） |
-| Journal of Librarianship and Scholarly Communication | 14(1)（逐次公開分） | 27 | Crossref |
+| The Journal of Academic Librarianship | volume 52（全6号） | 163 | Crossref |
+| Learned Publishing | Volume 39（全4号）＋40(1)オンライン先行分 | 78 | Crossref |
+| College & Research Libraries | Vol. 87 No.1–6 | 58 | OAI-PMH（ACRL） |
+| Insights: the UKSG journal | Vol. 39（逐次公開分） | 23 | Crossref（誌サイトと照合済） |
+| Journal of Librarianship and Scholarly Communication | 14(1)（逐次公開分） | 29 | Crossref |
 | LIBER Quarterly | Vol. 36 No.1＋35(1)追加分 | 6 | Crossref |
-| Journal of Scholarly Publishing | vol. 57 No.1, 3, 4＋オンライン先行分 | 64 | Crossref |
+| Journal of Scholarly Publishing | vol. 57 No.1, 3, 4＋オンライン先行分 | 73 | Crossref |
 | Evidence Based Library and Information Practice | Vol. 21 No.1–3 | 39 | Crossref |
 
 
 
 ## 注記（既知の欠落・体裁上の割り切り）
 
-- C&RLはCrossrefに87(5)しか登録がなかったため、本誌のOJSが提供するOAI-PMHから巻号つきで取得しました。87(6)（11月号）は取得時点で未刊行・未登録です。
-- Journal of Scholarly Publishingの57(2)（2026年4月号相当）はCrossrefで確認できなかったため未収録です。オンライン先行公開で号の未定な15件は別掲しました。なお55(2)（2024年分）の再登録レコード13件は、2026年分ではないため除外しています。
+- C&RLはCrossrefに87(5)しか登録がなかったため、本誌のOJSが提供するOAI-PMHから巻号つきで取得しました。87(6)（11月号）は2026年11月18日に刊行され、2026年11月26日の更新で収録しました。
+- Journal of Scholarly Publishingの57(2)（2026年4月号相当）はCrossrefで確認できなかったため未収録です。オンライン先行公開で号の未定な24件は別掲しました。なお55(2)（2024年分）の再登録レコード13件は、2026年分ではないため除外しています。
 - EBLIP 21(4)（12月号）は未刊行です。今後の週次監視で追加できます。
 - Editorial Board / Issue Information / Front Matter等の奥付類とマストヘッドは除外しました。訂正・撤回通知は元の索引の慣行に倣い収録しています。
 - 号の帰属はCrossrefの登録に基づきます（例：JAL 52(5)は登録上53件と、他号より大部になっています）。

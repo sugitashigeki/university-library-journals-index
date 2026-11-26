@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Journal of Scholarly Publishing, vol. 57, 2026（64件）
+# Journal of Scholarly Publishing, vol. 57, 2026（73件）
 
 ### Vol.57 No.1
 - [さよならh指数、ようこそcスコア](https://doi.org/10.3138/jsp-2025-0038) / Valentí Rull
@@ -75,6 +75,16 @@ layout: default
 - [学術研究と出版の強化：ChatGPTの役割と含意](https://doi.org/10.3138/jsp-2025-0060) / Zhifang Liu, Muhammad Kamarul Kabilan, Emynordiana Jamil, Anan Sawaengdis
 - [主流ジャーナルにおける研究出版：グローバルなパターン、決定要因、成功のための戦略](https://doi.org/10.3138/jsp-2025-0129) / Isaac Ofem Ubi, Valentine Joseph Owan, Bassey Asuquo Bassey
 - [知的パラダイムの時代におけるグローバルなAIインパクト：研究論文からの視点](https://doi.org/10.3138/jsp-2025-0153) / Xu Wang, Fang Xie, Zeeshan Muhammad
+
+- [台湾の大学教員が学術出版のために書く際の言語選択の動機](https://doi.org/10.3138/jsp-2024-0135) / Shih-Chieh Chien
+- [教育におけるChatGPT革命：動向、機会、研究のホットスポット―文献計量学の視点から](https://doi.org/10.3138/jsp-2025-0015) / Xingwang Wu, Andi Subhan Amir, Firda Nosita, Mohammad Faruque Sarker, Rusdiana Junaid, Ajani Restianty, Loso Judijanto, Saurabh Dutta, Ramakant Amar Navghare, Shweta Chauhan, Javaid Ahmad Wagay
+- [ポーランドとドイツの経済学ジャーナルにおける言語シフト：コーパスに基づく比較分析](https://doi.org/10.3138/jsp-2025-0149) / Victor Bystrov, Viktoriia Naboka-Krell, Anna Staszewska-Bystrova, Peter Winker
+- [『Writing Professionally in the Social Sciences』書評](https://doi.org/10.3138/jsp-2025-0190) / Afifa Hamad
+- [ギルギット地域における起業家育成のMominay概念：起業家行動と起業家教育の媒介・調整的役割](https://doi.org/10.3138/jsp-2024-0097) / Naveed Ahmed, Mehfooz Ullah, Amir Iqbal
+- [オープンアクセス論文はより多く引用されるか：メタ分析](https://doi.org/10.3138/jsp-2026-0040) / Sihui Huang, Fengjing Li, Anqi Guo, Yunyun Song, Aiguo Li
+- [査読の標準的な構成要素としての引用検証：AI生成学術研究の時代における省察と提言](https://doi.org/10.3138/jsp-2026-0041) / Mary-Louise E. Millett
+- [撤回の倫理とその余波：不正行為からスティグマ、引用の残滓、公衆の不信へ](https://doi.org/10.3138/jsp-2026-0073) / Taisith Kruasom, Irada Phorncharoen, Pongpan Srimuang
+- [ピアフィードバック、ライティングの動機づけ、ライティングのパフォーマンス：探索的なメタ分析的構造方程式モデリング研究](https://doi.org/10.3138/jsp-2025-0123) / Zhifang Liu
 
 
 [← 新着ストリームへ戻る](../index.md)

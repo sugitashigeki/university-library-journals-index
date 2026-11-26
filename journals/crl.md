@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# College & Research Libraries, Vol. 87, 2026（47件）
+# College & Research Libraries, Vol. 87, 2026（58件）
 
 ### Vol.87 No.1
 - [独自の道を模索して：大学図書館員のテニュア経験に関する現象学的研究](https://crl.acrl.org/index.php/crl/article/view/27125) / Jolene Cole
@@ -60,6 +60,19 @@ layout: default
 - [単位取得率、科目成績、研究指導：コミュニティカレッジ学生を対象とした8年間の研究](https://crl.acrl.org/index.php/crl/article/view/27488) / Stephanie C. Gillespie
 - [学部看護学生への情報源評価の指導：CRAAPテストと「Source + Beyond the Source」フレームワークの比較](https://crl.acrl.org/index.php/crl/article/view/27487) / Caitlin Ratcliffe
 - [『図書館界における黒人女性の遺産：彼女たちが大胆にも力を持とうとしたとき』書評](https://crl.acrl.org/index.php/crl/article/view/27495) / Tomeka Jackson
+
+### Vol.87 No.6
+- [C&RLのマネージングエディター紹介](https://crl.acrl.org/index.php/crl/article/view/27560) / Michelle Demeter
+- [「タグ、あなたが鬼」：メタデータ実践がLibGuidesの発見可能性と利用にどう影響するか](https://crl.acrl.org/index.php/crl/article/view/27561) / Stephanie M. Luke, Evie Cordell, Nathan Jeffery, Kate Meyrick, Thea Soter
+- [指標の潮流に抗して：グローバルなインパクト指標による非英語・非西洋研究の周縁化に関する文献計量コーパス研究](https://crl.acrl.org/index.php/crl/article/view/27563) / Diana Florea
+- [インパクトを探る：時間外プログラムと大学図書館のコミュニティ関与を高める戦略](https://crl.acrl.org/index.php/crl/article/view/27564) / Ruthann E. Mowry, Janis J. Shearer
+- [オープン教育資源のアドボカシー：OER支援者のための戦略とリソースの検討](https://crl.acrl.org/index.php/crl/article/view/27565) / Chelsee Dickson, Sabrina Davis, Jin Jo, Kristina Clement
+- [UAEの図書館におけるAIリテラシー：デジタル時代のコンピテンシー、研修ニーズ、倫理的配慮の評価](https://crl.acrl.org/index.php/crl/article/view/27566) / Zafar Imam Khan
+- [目録作成支援のためのAI生成件名標目の評価](https://crl.acrl.org/index.php/crl/article/view/27567) / Li Sun
+- [公立大学図書館における職場配慮の調整：経験に関する研究](https://crl.acrl.org/index.php/crl/article/view/27568) / Abigail L. Phillips, Dustin Fife
+- [『図書館の職場におけるウェルビーイング：管理者のためのハンドブック』書評](https://crl.acrl.org/index.php/crl/article/view/27569) / Christina Tooulias-Santolin
+- [『新しいインストラクション・ライブラリアン：指導者と学習者のためのワークブック』書評](https://crl.acrl.org/index.php/crl/article/view/27570) / Lisa Shin
+- [『多様性・公平性・包摂性のための大学図書館コレクション評価』書評](https://crl.acrl.org/index.php/crl/article/view/27571) / Victoria Ho
 
 
 [← 新着ストリームへ戻る](../index.md)

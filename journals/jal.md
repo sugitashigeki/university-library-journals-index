@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# The Journal of Academic Librarianship, volume 52, 2026（155件）
+# The Journal of Academic Librarianship, volume 52, 2026（163件）
 
 ### Vol.52 No.1
 - [米国の大学図書館における読書クラブプログラム：調査](https://doi.org/10.1016/j.acalib.2025.103162) / Mary Kamela
@@ -170,6 +170,15 @@ layout: default
 - [図書館学におけるAIフルエンシー：専門的実践と倫理的関与の強化](https://doi.org/10.1016/j.acalib.2026.103352) / Don Simmons, Katherine A. LaFlamme
 - [『北米の主要大学図書館におけるデータ中心の役割に関する研究』に対する訂正](https://doi.org/10.1016/j.acalib.2026.103364) / Ahmad R. Pratama
 - [『大学の教育担当図書館員のキャリアパスと追従行動の探究』に対する訂正](https://doi.org/10.1016/j.acalib.2026.103363) / Jenelle E. Jensen, Renee Kiner, Shailendra Gajanan
+
+- [違いを生む本：大学図書館への含意](https://doi.org/10.1016/j.acalib.2026.103369) / Jamie M. Hansen, Elizabeth (Betsy) S. Hopkins, Margaret Marchant, Toni E. Pilcher, Rachel L. Wadham
+- [教科書だけではない：補助教材とオープン教育資源](https://doi.org/10.1016/j.acalib.2026.103370) / Sarah LeMire, Kathy Christie Anders, Kimberly Clough
+- [没入型図書館ガイダンスの情意的側面を探る：シミュレーション基盤型学習のレンズを通して](https://doi.org/10.1016/j.acalib.2026.103372) / Andrew Taylor
+- [出典を意識する学術エージェントによる言語横断的な書誌作業の支援：中国の学術誌参考文献からのエビデンス](https://doi.org/10.1016/j.acalib.2026.103373) / Wenbo Cui, Qi Zhou
+- [テニュアトラックにあるZ世代の大学図書館員：信念、経験、期待](https://doi.org/10.1016/j.acalib.2026.103374) / Rayla E. Tokarz, Challen R. Wright, Rebecca Glasgow
+- [大学図書館における仮眠設備の計画：学生のニーズ、場所の選定、サービスへの含意](https://doi.org/10.1016/j.acalib.2026.103375) / Chainun Prompen, Jarunee Nimitsiriwat, Borirak Intarakulchai, Amarit Muadthong, Sakolchai Boonpunja, Jenjira Trachoo
+- [図書館エンゲージメントの可視化：大学図書館におけるCanvaベースのデジタル出版物の内容分析](https://doi.org/10.1016/j.acalib.2026.103377) / Roilingel P. Calilung
+- [大学図書館・文書館のためのエビデンス・ガバナンス成熟度モデル：専門家による予備的評価](https://doi.org/10.1016/j.acalib.2026.103378) / Jinlan Wang, Peisheng Liu
 
 
 [← 新着ストリームへ戻る](../index.md)

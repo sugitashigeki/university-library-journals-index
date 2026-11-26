@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Learned Publishing, Volume 39, 2026（70件）
+# Learned Publishing, Volume 39–40, 2026–2027（78件）
 
 ### Vol.39 No.1
 - [コネクションから引用へ：バングラデシュにおけるアカデミック・ソーシャル・ネットワーキング（ASN）サイトの学術的インパクトへの影響の評価](https://doi.org/10.1002/leap.2030) / Sabrina Aktar, Umme Habiba, Md. Emdadul Islam
@@ -81,6 +81,16 @@ layout: default
 - [カーン大学（フランス）の研究者による著者識別子とソーシャルネットワークへの関与の推移：2019–2023年](https://doi.org/10.1002/leap.2101) / Sarah Marcq, Aline Bouchard, Isabelle Mauger Perez, Benjamin Bober, Christophe Boudry
 - [10億ドル規模の出版産業における学術労働の持続可能性](https://doi.org/10.1002/leap.2096) / Afroz Ahmad Shah
 - [早期に不採択とし、より速く前進させる：学術出版における適時の編集トリアージのすすめ](https://doi.org/10.1002/leap.2106) / Md. Jahid Hasan
+
+### Vol.40 No.1（オンライン先行）
+- [専門（法学）出版における板挟み：ヨーロッパ立憲主義の事例](https://doi.org/10.1002/leap.2116) / Max Steuer
+- [データ出版における合成データの倫理的含意：整合的なガバナンス枠組みに向けて](https://doi.org/10.1002/leap.2117) / Junkai Chen
+- [ポリシーからアーキテクチャへ：学術査読に対する機密性を保ち人間に説明責任を負うAI支援のレビュー](https://doi.org/10.1002/leap.2119) / Het Joshi, Urvish Joshi, Sharon Baisil, B. Sanjay Kini
+- [所属が重要だ！：機関との結びつきが弱い研究者にとってのオープンアクセス出版の障壁に関する混合研究法による研究](https://doi.org/10.1002/leap.2123) / Nataliia Kaliuzhna, Zeynep Aydin, Christian Hauschke
+- [リード・アンド・パブリッシュ契約における管理負担としての分断](https://doi.org/10.1002/leap.2124) / Christy Jarvis
+- [AIは研究抄録において人間のように感情を表現できるか：学術出版への含意](https://doi.org/10.1002/leap.2126) / Ying Wei, Mingxin Yao
+- [誰がデータの保証人となるのか](https://doi.org/10.1002/leap.2131) / Qiang Zou
+- [沈黙の撤回は中国の不正論文の痕跡を完全に消せるか：NSFCが公表した学術不正事例の調査](https://doi.org/10.1002/leap.2133) / Feifei Shen, Chenyang Wang
 
 
 [← 新着ストリームへ戻る](../index.md)

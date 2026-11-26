@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Insights: the UKSG journal, Vol. 39, 2026（21件）
+# Insights: the UKSG journal, Vol. 39, 2026（23件）
 
 ### Vol.39 (2026)
 
@@ -27,6 +27,9 @@ layout: default
 - [原点回帰：査読なしに研究の科学的評価を再構築する](https://doi.org/10.1629/uksg.714) / Malik Sallam
 - [ウェルビーイング支援と継続教育図書館：学生をまるごと支える](https://doi.org/10.1629/uksg.775) / Rachel Huskisson
 - [持続可能な開発のための組織的手段としての研究評価：研究インセンティブと社会目標の整合](https://doi.org/10.1629/uksg.790) / Seán Lacey
+
+- [ハルシネーションによる参考文献を歓迎すべきか：捏造された出典を超えた引用の公正性](https://doi.org/10.1629/uksg.786) / Ognjen Arandjelović
+- [検索環境における略奪的出版社：学術コミュニケーションに関するウェブトラフィックのエビデンス](https://doi.org/10.1629/uksg.796) / Rubén Comas-Forgas, Mercè Morey-López, Manos Pavlakis, Hiromi M. Yokoyama
 
 
 [← 新着ストリームへ戻る](../index.md)

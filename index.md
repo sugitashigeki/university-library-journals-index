@@ -5,7 +5,32 @@ title: 新着ストリーム
 
 # 関連誌新刊号記事索引 ― 新着ストリーム
 新しい号から順に、全8誌を一挙に掲載しています。誌別の収録範囲は [誌別アーカイブ](journals/) を、収録方法と既知の欠落は [生成方法](method.md) をご覧ください。各文献の題名はランディングページへのリンクになっています。
-最終更新: 2026年11月10日（2026年分・全429件）
+最終更新: 2026年11月26日（2026年分・全469件）
+
+## ● College & Research Libraries, Vol.87(6), November 2026
+
+- [C&RLのマネージングエディター紹介](https://crl.acrl.org/index.php/crl/article/view/27560) / Michelle Demeter
+- [「タグ、あなたが鬼」：メタデータ実践がLibGuidesの発見可能性と利用にどう影響するか](https://crl.acrl.org/index.php/crl/article/view/27561) / Stephanie M. Luke, Evie Cordell, Nathan Jeffery, Kate Meyrick, Thea Soter
+- [指標の潮流に抗して：グローバルなインパクト指標による非英語・非西洋研究の周縁化に関する文献計量コーパス研究](https://crl.acrl.org/index.php/crl/article/view/27563) / Diana Florea
+- [インパクトを探る：時間外プログラムと大学図書館のコミュニティ関与を高める戦略](https://crl.acrl.org/index.php/crl/article/view/27564) / Ruthann E. Mowry, Janis J. Shearer
+- [オープン教育資源のアドボカシー：OER支援者のための戦略とリソースの検討](https://crl.acrl.org/index.php/crl/article/view/27565) / Chelsee Dickson, Sabrina Davis, Jin Jo, Kristina Clement
+- [UAEの図書館におけるAIリテラシー：デジタル時代のコンピテンシー、研修ニーズ、倫理的配慮の評価](https://crl.acrl.org/index.php/crl/article/view/27566) / Zafar Imam Khan
+- [目録作成支援のためのAI生成件名標目の評価](https://crl.acrl.org/index.php/crl/article/view/27567) / Li Sun
+- [公立大学図書館における職場配慮の調整：経験に関する研究](https://crl.acrl.org/index.php/crl/article/view/27568) / Abigail L. Phillips, Dustin Fife
+- [『図書館の職場におけるウェルビーイング：管理者のためのハンドブック』書評](https://crl.acrl.org/index.php/crl/article/view/27569) / Christina Tooulias-Santolin
+- [『新しいインストラクション・ライブラリアン：指導者と学習者のためのワークブック』書評](https://crl.acrl.org/index.php/crl/article/view/27570) / Lisa Shin
+- [『多様性・公平性・包摂性のための大学図書館コレクション評価』書評](https://crl.acrl.org/index.php/crl/article/view/27571) / Victoria Ho
+
+## ● Learned Publishing, Volume 40 Issue 1（オンライン先行）
+
+- [専門（法学）出版における板挟み：ヨーロッパ立憲主義の事例](https://doi.org/10.1002/leap.2116) / Max Steuer
+- [データ出版における合成データの倫理的含意：整合的なガバナンス枠組みに向けて](https://doi.org/10.1002/leap.2117) / Junkai Chen
+- [ポリシーからアーキテクチャへ：学術査読に対する機密性を保ち人間に説明責任を負うAI支援のレビュー](https://doi.org/10.1002/leap.2119) / Het Joshi, Urvish Joshi, Sharon Baisil, B. Sanjay Kini
+- [所属が重要だ！：機関との結びつきが弱い研究者にとってのオープンアクセス出版の障壁に関する混合研究法による研究](https://doi.org/10.1002/leap.2123) / Nataliia Kaliuzhna, Zeynep Aydin, Christian Hauschke
+- [リード・アンド・パブリッシュ契約における管理負担としての分断](https://doi.org/10.1002/leap.2124) / Christy Jarvis
+- [AIは研究抄録において人間のように感情を表現できるか：学術出版への含意](https://doi.org/10.1002/leap.2126) / Ying Wei, Mingxin Yao
+- [誰がデータの保証人となるのか](https://doi.org/10.1002/leap.2131) / Qiang Zou
+- [沈黙の撤回は中国の不正論文の痕跡を完全に消せるか：NSFCが公表した学術不正事例の調査](https://doi.org/10.1002/leap.2133) / Feifei Shen, Chenyang Wang
 
 ## ● Journal of Scholarly Publishing, オンライン先行公開分（号未定・2026年）
 
@@ -24,6 +49,15 @@ title: 新着ストリーム
 - [学術研究と出版の強化：ChatGPTの役割と含意](https://doi.org/10.3138/jsp-2025-0060) / Zhifang Liu, Muhammad Kamarul Kabilan, Emynordiana Jamil, Anan Sawaengdis
 - [主流ジャーナルにおける研究出版：グローバルなパターン、決定要因、成功のための戦略](https://doi.org/10.3138/jsp-2025-0129) / Isaac Ofem Ubi, Valentine Joseph Owan, Bassey Asuquo Bassey
 - [知的パラダイムの時代におけるグローバルなAIインパクト：研究論文からの視点](https://doi.org/10.3138/jsp-2025-0153) / Xu Wang, Fang Xie, Zeeshan Muhammad
+- [台湾の大学教員が学術出版のために書く際の言語選択の動機](https://doi.org/10.3138/jsp-2024-0135) / Shih-Chieh Chien
+- [教育におけるChatGPT革命：動向、機会、研究のホットスポット―文献計量学の視点から](https://doi.org/10.3138/jsp-2025-0015) / Xingwang Wu, Andi Subhan Amir, Firda Nosita, Mohammad Faruque Sarker, Rusdiana Junaid, Ajani Restianty, Loso Judijanto, Saurabh Dutta, Ramakant Amar Navghare, Shweta Chauhan, Javaid Ahmad Wagay
+- [ポーランドとドイツの経済学ジャーナルにおける言語シフト：コーパスに基づく比較分析](https://doi.org/10.3138/jsp-2025-0149) / Victor Bystrov, Viktoriia Naboka-Krell, Anna Staszewska-Bystrova, Peter Winker
+- [『Writing Professionally in the Social Sciences』書評](https://doi.org/10.3138/jsp-2025-0190) / Afifa Hamad
+- [ギルギット地域における起業家育成のMominay概念：起業家行動と起業家教育の媒介・調整的役割](https://doi.org/10.3138/jsp-2024-0097) / Naveed Ahmed, Mehfooz Ullah, Amir Iqbal
+- [オープンアクセス論文はより多く引用されるか：メタ分析](https://doi.org/10.3138/jsp-2026-0040) / Sihui Huang, Fengjing Li, Anqi Guo, Yunyun Song, Aiguo Li
+- [査読の標準的な構成要素としての引用検証：AI生成学術研究の時代における省察と提言](https://doi.org/10.3138/jsp-2026-0041) / Mary-Louise E. Millett
+- [撤回の倫理とその余波：不正行為からスティグマ、引用の残滓、公衆の不信へ](https://doi.org/10.3138/jsp-2026-0073) / Taisith Kruasom, Irada Phorncharoen, Pongpan Srimuang
+- [ピアフィードバック、ライティングの動機づけ、ライティングのパフォーマンス：探索的なメタ分析的構造方程式モデリング研究](https://doi.org/10.3138/jsp-2025-0123) / Zhifang Liu
 
 ## ● The Journal of Academic Librarianship, volume 52 issue 6, November 2026
 
@@ -53,6 +87,14 @@ title: 新着ストリーム
 - [図書館学におけるAIフルエンシー：専門的実践と倫理的関与の強化](https://doi.org/10.1016/j.acalib.2026.103352) / Don Simmons, Katherine A. LaFlamme
 - [『北米の主要大学図書館におけるデータ中心の役割に関する研究』に対する訂正](https://doi.org/10.1016/j.acalib.2026.103364) / Ahmad R. Pratama
 - [『大学の教育担当図書館員のキャリアパスと追従行動の探究』に対する訂正](https://doi.org/10.1016/j.acalib.2026.103363) / Jenelle E. Jensen, Renee Kiner, Shailendra Gajanan
+- [違いを生む本：大学図書館への含意](https://doi.org/10.1016/j.acalib.2026.103369) / Jamie M. Hansen, Elizabeth (Betsy) S. Hopkins, Margaret Marchant, Toni E. Pilcher, Rachel L. Wadham
+- [教科書だけではない：補助教材とオープン教育資源](https://doi.org/10.1016/j.acalib.2026.103370) / Sarah LeMire, Kathy Christie Anders, Kimberly Clough
+- [没入型図書館ガイダンスの情意的側面を探る：シミュレーション基盤型学習のレンズを通して](https://doi.org/10.1016/j.acalib.2026.103372) / Andrew Taylor
+- [出典を意識する学術エージェントによる言語横断的な書誌作業の支援：中国の学術誌参考文献からのエビデンス](https://doi.org/10.1016/j.acalib.2026.103373) / Wenbo Cui, Qi Zhou
+- [テニュアトラックにあるZ世代の大学図書館員：信念、経験、期待](https://doi.org/10.1016/j.acalib.2026.103374) / Rayla E. Tokarz, Challen R. Wright, Rebecca Glasgow
+- [大学図書館における仮眠設備の計画：学生のニーズ、場所の選定、サービスへの含意](https://doi.org/10.1016/j.acalib.2026.103375) / Chainun Prompen, Jarunee Nimitsiriwat, Borirak Intarakulchai, Amarit Muadthong, Sakolchai Boonpunja, Jenjira Trachoo
+- [図書館エンゲージメントの可視化：大学図書館におけるCanvaベースのデジタル出版物の内容分析](https://doi.org/10.1016/j.acalib.2026.103377) / Roilingel P. Calilung
+- [大学図書館・文書館のためのエビデンス・ガバナンス成熟度モデル：専門家による予備的評価](https://doi.org/10.1016/j.acalib.2026.103378) / Jinlan Wang, Peisheng Liu
 
 ## ● Insights: the UKSG journal, Vol. 39, 2026（逐次公開）
 
@@ -77,6 +119,8 @@ title: 新着ストリーム
 - [原点回帰：査読なしに研究の科学的評価を再構築する](https://doi.org/10.1629/uksg.714) / Malik Sallam
 - [ウェルビーイング支援と継続教育図書館：学生をまるごと支える](https://doi.org/10.1629/uksg.775) / Rachel Huskisson
 - [持続可能な開発のための組織的手段としての研究評価：研究インセンティブと社会目標の整合](https://doi.org/10.1629/uksg.790) / Seán Lacey
+- [ハルシネーションによる参考文献を歓迎すべきか：捏造された出典を超えた引用の公正性](https://doi.org/10.1629/uksg.786) / Ognjen Arandjelović
+- [検索環境における略奪的出版社：学術コミュニケーションに関するウェブトラフィックのエビデンス](https://doi.org/10.1629/uksg.796) / Rubén Comas-Forgas, Mercè Morey-López, Manos Pavlakis, Hiromi M. Yokoyama
 
 ## ● LIBER Quarterly, Vol. 36 No. 1 (2026)（逐次公開）
 
@@ -115,6 +159,8 @@ title: 新着ストリーム
 - [『The Open Science Cookbook』書評](https://doi.org/10.31274/jlsc.21184) / Michelle Mussuto
 - [『SPI-Hub：学術出版情報ハブ』書評](https://doi.org/10.31274/jlsc.20824) / Benjamin Saracco
 - [『グローバル・オープンアクセスの達成：科学的・認識的・参加的開放性の必要性』書評](https://doi.org/10.31274/jlsc.21303) / Kolby Peixoto
+- [『APCの時代：論文処理費用とオープンアクセスに対する責任著者のアプローチ』に対する訂正](https://doi.org/10.31274/jlsc.26604) / Mitchell Scott, Ben Rawlins
+- [『The Predatory Paradox: Ethics, Politics, and Practices in Contemporary Scholarly Publishing』書評](https://doi.org/10.31274/jlsc.21181) / Caelin Ross
 
 ## ● Journal of Scholarly Publishing, vol.57(4), October 2026
 

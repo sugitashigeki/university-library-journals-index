@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Journal of Librarianship and Scholarly Communication, 14(1), 2026（27件）
+# Journal of Librarianship and Scholarly Communication, 14(1), 2026（29件）
 
-（逐次公開型の例。委員会の索引は 13(1)（2025、2025-12-10最終更新）まで。本巻は2026年2月〜10月に公開された27本を公開日順に配列）
+（逐次公開型の例。委員会の索引は 13(1)（2025、2025-12-10最終更新）まで。本巻は2026年2月〜11月に公開された29本を公開日順に配列）
 
 ### 研究論文・実践記事等（Crossrefでは種別が付かないため一括）
 
@@ -30,6 +30,8 @@ layout: default
 - [（意味ある）学術出版ナラティブの構築：オープンアクセスウィークに向けたグリーンOA投稿のブートストラップ](https://doi.org/10.31274/jlsc.21406) / Tim Ribaric, Erin Moorhead
 - [大学図書館・教員・大学の結節点としての機関リポジトリ：AIを活用したサービス提供とステークホルダーの視点の明確化](https://doi.org/10.31274/jlsc.20600) / Jahanara Alamgir
 
+- [『APCの時代：論文処理費用とオープンアクセスに対する責任著者のアプローチ』に対する訂正](https://doi.org/10.31274/jlsc.26604) / Mitchell Scott, Ben Rawlins
+
 ### 書評（Brief Reviews of Books and Products ほか）
 
 - [『中国の学術コミュニケーション再考：政治経済学的アプローチ』書評](https://doi.org/10.31274/jlsc.21429) / Yuqi He
@@ -38,8 +40,8 @@ layout: default
 - [『The Open Science Cookbook』書評](https://doi.org/10.31274/jlsc.21184) / Michelle Mussuto
 - [『SPI-Hub：学術出版情報ハブ』書評](https://doi.org/10.31274/jlsc.20824) / Benjamin Saracco
 - [『グローバル・オープンアクセスの達成：科学的・認識的・参加的開放性の必要性』書評](https://doi.org/10.31274/jlsc.21303) / Kolby Peixoto
+- [『The Predatory Paradox: Ethics, Politics, and Practices in Contemporary Scholarly Publishing』書評](https://doi.org/10.31274/jlsc.21181) / Caelin Ross
 
----
 
 
 [← 新着ストリームへ戻る](../index.md)
